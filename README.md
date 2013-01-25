@@ -1,12 +1,13 @@
 # [Wordpress Theme Facebook v1.3](https://github.com/keyfunc/wp-theme-facebook)
 
-这是一个仿facebook的Wordpress主题, 由[Key君](http://uloli.com/)创建并维护
+这是一个仿facebook的Wordpress主题, 由[Key君](http://uloli.com/)创建并维护.
 
 ## 如何获取
 
-* 你可以直接在[下载最新版本](https://github.com/keyfunc/wp-theme-facebook/archive/master.zip).
-* 克隆一个repo: `git clone git://github.com/keyfunc/wp-theme-facebook.git`.
+以下两种方法可以选择
 
+* 你可以直接在[下载最新版本](https://github.com/keyfunc/wp-theme-facebook/archive/master.zip).
+* 你可以克隆一个repo: `git clone git://github.com/keyfunc/wp-theme-facebook.git`.
 
 ## 如何使用
 
@@ -18,6 +19,10 @@
 * 如果发现bug 你可以在这里提交 [https://github.com/keyfunc/wp-theme-facebook/issues](https://github.com/keyfunc/wp-theme-facebook/issues)
 
 ## Copyright and license
+
+本主题采用 [The MIT License](http://opensource.org/licenses/MIT) 授权. 被授权人有权利使用、复制、修改、合并、出版发行、散布、再授权及贩售软件及软件的副本。
+被授权人可根据程序的需要修改授权条款为适当的内容。
+在软件和软件的所有副本中都必须包含版权声明和许可声明。
 
 Copyright (C) 2013 Key
 
