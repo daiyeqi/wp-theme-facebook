@@ -21,7 +21,9 @@
 ## Copyright and license
 
 本主题采用 [The MIT License](http://opensource.org/licenses/MIT) 授权. 被授权人有权利使用、复制、修改、合并、出版发行、散布、再授权及贩售软件及软件的副本。
+
 被授权人可根据程序的需要修改授权条款为适当的内容。
+
 在软件和软件的所有副本中都必须包含版权声明和许可声明。
 
 Copyright (C) 2013 Key
