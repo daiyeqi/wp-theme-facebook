@@ -1,17 +1,21 @@
-# [Wordpress Theme Facebook v1.3](http://www.github.com/facebook/wp-theme-facebook)
+# [Wordpress Theme Facebook v1.3](https://github.com/keyfunc/wp-theme-facebook)
 
 这是一个仿facebook的Wordpress主题, 由[Key君](http://uloli.com/)创建并维护
 
 ## 如何获取
 
-* 你可以直接在[下载最新版本].
-* 克隆一个repo: `git clone git://github.com/twitter/bootstrap.git`.
+* 你可以直接在[下载最新版本](https://github.com/keyfunc/wp-theme-facebook/archive/master.zip).
+* 克隆一个repo: `git clone git://github.com/keyfunc/wp-theme-facebook.git`.
 
 
 ## 如何使用
 
 * 将facebook文件夹复制到wordpress目录下的 `/wp-content/themes/` 文件夹下.
 * 在wordpress控制台中选择该模板即可.
+
+## 报告Bug
+
+* 如果发现bug 你可以在这里提交 [https://github.com/keyfunc/wp-theme-facebook/issues](https://github.com/keyfunc/wp-theme-facebook/issues)
 
 ## Copyright and license
 
