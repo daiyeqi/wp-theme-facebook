@@ -2,6 +2,7 @@
 
 这是一个仿facebook的Wordpress主题, 由[Key君](http://uloli.com/)创建并维护.
 
+
 ## 如何获取
 
 以下两种方法可以选择
@@ -13,6 +14,10 @@
 
 * 将facebook文件夹复制到wordpress目录下的 `/wp-content/themes/` 文件夹下.
 * 在wordpress控制台中选择该模板即可.
+
+## 预览
+
+![screenshot](https://raw.github.com/keyfunc/wp-theme-facebook/master/facebook/screenshot.png)
 
 ## 报告Bug
 
